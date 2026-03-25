@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/users/create-user
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_users_create-user_screenshot.png
+Screenshot: images/ghl_users_create-user_screenshot.png
 
 ---
 

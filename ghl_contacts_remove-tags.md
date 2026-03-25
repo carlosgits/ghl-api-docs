@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/remove-tags
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_remove-tags_screenshot.png
+Screenshot: images/ghl_contacts_remove-tags_screenshot.png
 
 ---
 

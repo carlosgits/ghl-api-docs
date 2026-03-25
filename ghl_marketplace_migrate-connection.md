@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/marketplace/migrate-connection
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_marketplace_migrate-connection_screenshot.png
+Screenshot: images/ghl_marketplace_migrate-connection_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/ProductUpdate
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_ProductUpdate_screenshot.png
+Screenshot: images/webhook_ProductUpdate_screenshot.png
 
 ---
 

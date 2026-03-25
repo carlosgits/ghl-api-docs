@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/MarketplacePolicies/PrivateAppInstallLimits
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\MarketplacePolicies_PrivateAppInstallLimits_screenshot.png
+Screenshot: images/MarketplacePolicies_PrivateAppInstallLimits_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/OpportunityAssignedToUpdate
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_OpportunityAssignedToUpdate_screenshot.png
+Screenshot: images/webhook_OpportunityAssignedToUpdate_screenshot.png
 
 ---
 

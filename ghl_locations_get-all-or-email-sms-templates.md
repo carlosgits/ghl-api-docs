@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/get-all-or-email-sms-templates
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_get-all-or-email-sms-templates_screenshot.png
+Screenshot: images/ghl_locations_get-all-or-email-sms-templates_screenshot.png
 
 ---
 

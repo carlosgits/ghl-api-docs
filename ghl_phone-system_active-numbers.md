@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/phone-system/active-numbers
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_phone-system_active-numbers_screenshot.png
+Screenshot: images/ghl_phone-system_active-numbers_screenshot.png
 
 ---
 

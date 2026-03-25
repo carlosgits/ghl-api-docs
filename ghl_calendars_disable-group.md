@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/disable-group
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_disable-group_screenshot.png
+Screenshot: images/ghl_calendars_disable-group_screenshot.png
 
 ---
 

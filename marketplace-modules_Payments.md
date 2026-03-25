@@ -2,11 +2,11 @@
 
 Source: https://marketplace.gohighlevel.com/docs/marketplace-modules/Payments
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_Payments_screenshot.png
+Screenshot: images/marketplace-modules_Payments_screenshot.png
 
 ## Images
 
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_Payments_00.png) (3264x2010, 162.2KB)
+- ![drawing](images/marketplace-modules_Payments_00.png) (3264x2010, 162.2KB)
 
 ---
 

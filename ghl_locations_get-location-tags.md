@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/get-location-tags
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_get-location-tags_screenshot.png
+Screenshot: images/ghl_locations_get-location-tags_screenshot.png
 
 ---
 

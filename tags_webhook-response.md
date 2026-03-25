@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/tags/webhook-response
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\tags_webhook-response_screenshot.png
+Screenshot: images/tags_webhook-response_screenshot.png
 
 ---
 

@@ -2,25 +2,25 @@
 
 Source: https://marketplace.gohighlevel.com/docs/marketplace-modules/CustomTriggers
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_screenshot.png
+Screenshot: images/marketplace-modules_CustomTriggers_screenshot.png
 
 ## Images
 
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_00.png) (1210x900, 68.5KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_01.png) (1828x1342, 111.5KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_02.png) (1212x1288, 87.6KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_03.png) (1826x1030, 100.7KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_04.png) (1208x1320, 115.0KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_05.png) (1208x1502, 126.5KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_06.png) (1172x686, 63.1KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_07.png) (1172x366, 34.7KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_08.png) (1122x1244, 101.2KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_09.png) (1172x620, 64.3KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_10.png) (1160x652, 65.5KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_11.png) (1212x856, 65.6KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_12.png) (1830x648, 70.0KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_13.png) (1844x284, 44.3KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomTriggers_14.png) (1018x926, 130.3KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_00.png) (1210x900, 68.5KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_01.png) (1828x1342, 111.5KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_02.png) (1212x1288, 87.6KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_03.png) (1826x1030, 100.7KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_04.png) (1208x1320, 115.0KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_05.png) (1208x1502, 126.5KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_06.png) (1172x686, 63.1KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_07.png) (1172x366, 34.7KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_08.png) (1122x1244, 101.2KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_09.png) (1172x620, 64.3KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_10.png) (1160x652, 65.5KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_11.png) (1212x856, 65.6KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_12.png) (1830x648, 70.0KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_13.png) (1844x284, 44.3KB)
+- ![drawing](images/marketplace-modules_CustomTriggers_14.png) (1018x926, 130.3KB)
 
 ---
 

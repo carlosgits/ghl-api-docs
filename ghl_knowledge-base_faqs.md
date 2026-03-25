@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/knowledge-base/faqs
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_knowledge-base_faqs_screenshot.png
+Screenshot: images/ghl_knowledge-base_faqs_screenshot.png
 
 ---
 

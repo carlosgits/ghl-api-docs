@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/links/delete-link
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_links_delete-link_screenshot.png
+Screenshot: images/ghl_links_delete-link_screenshot.png
 
 ---
 

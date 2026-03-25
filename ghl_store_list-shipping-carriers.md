@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/store/list-shipping-carriers
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_store_list-shipping-carriers_screenshot.png
+Screenshot: images/ghl_store_list-shipping-carriers_screenshot.png
 
 ---
 

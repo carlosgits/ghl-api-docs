@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/tags/country
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\tags_country_screenshot.png
+Screenshot: images/tags_country_screenshot.png
 
 ---
 

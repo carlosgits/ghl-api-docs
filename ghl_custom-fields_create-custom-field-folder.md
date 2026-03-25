@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/custom-fields/create-custom-field-folder
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_custom-fields_create-custom-field-folder_screenshot.png
+Screenshot: images/ghl_custom-fields_create-custom-field-folder_screenshot.png
 
 ---
 

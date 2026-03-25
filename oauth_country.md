@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/oauth/country
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_country_screenshot.png
+Screenshot: images/oauth_country_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/conversations/update-conversation
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_conversations_update-conversation_screenshot.png
+Screenshot: images/ghl_conversations_update-conversation_screenshot.png
 
 ---
 

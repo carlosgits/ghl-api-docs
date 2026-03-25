@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/invoices/update-invoice-template
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_invoices_update-invoice-template_screenshot.png
+Screenshot: images/ghl_invoices_update-invoice-template_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/fetch-calendar-resources
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_fetch-calendar-resources_screenshot.png
+Screenshot: images/ghl_calendars_fetch-calendar-resources_screenshot.png
 
 ---
 

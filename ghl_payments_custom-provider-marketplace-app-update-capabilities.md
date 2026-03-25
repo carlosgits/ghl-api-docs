@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/payments/custom-provider-marketplace-app-update-capabilities
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_payments_custom-provider-marketplace-app-update-capabilities_screenshot.png
+Screenshot: images/ghl_payments_custom-provider-marketplace-app-update-capabilities_screenshot.png
 
 ---
 

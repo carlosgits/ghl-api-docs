@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/products/prices
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_products_prices_screenshot.png
+Screenshot: images/ghl_products_prices_screenshot.png
 
 ---
 

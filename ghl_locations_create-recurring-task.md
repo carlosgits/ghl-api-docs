@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/create-recurring-task
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_create-recurring-task_screenshot.png
+Screenshot: images/ghl_locations_create-recurring-task_screenshot.png
 
 ---
 

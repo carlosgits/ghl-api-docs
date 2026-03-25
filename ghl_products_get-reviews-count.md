@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/products/get-reviews-count
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_products_get-reviews-count_screenshot.png
+Screenshot: images/ghl_products_get-reviews-count_screenshot.png
 
 ---
 

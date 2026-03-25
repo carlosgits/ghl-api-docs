@@ -2,11 +2,11 @@
 
 Source: https://marketplace.gohighlevel.com/docs/other/mcp
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\other_mcp_screenshot.png
+Screenshot: images/other_mcp_screenshot.png
 
 ## Images
 
-- ![Required Scopes](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\other_mcp_00.png) (802x383, 52.6KB)
+- ![Required Scopes](images/other_mcp_00.png) (802x383, 52.6KB)
 
 ---
 

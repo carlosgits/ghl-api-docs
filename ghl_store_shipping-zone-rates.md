@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/store/shipping-zone-rates
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_store_shipping-zone-rates_screenshot.png
+Screenshot: images/ghl_store_shipping-zone-rates_screenshot.png
 
 ---
 

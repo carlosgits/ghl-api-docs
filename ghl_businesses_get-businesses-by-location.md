@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/businesses/get-businesses-by-location
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_businesses_get-businesses-by-location_screenshot.png
+Screenshot: images/ghl_businesses_get-businesses-by-location_screenshot.png
 
 ---
 

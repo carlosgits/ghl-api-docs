@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/knowledge-base/list-all-knowledge-bases-paginated
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_knowledge-base_list-all-knowledge-bases-paginated_screenshot.png
+Screenshot: images/ghl_knowledge-base_list-all-knowledge-bases-paginated_screenshot.png
 
 ---
 

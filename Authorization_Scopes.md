@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/Authorization/Scopes
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_Scopes_screenshot.png
+Screenshot: images/Authorization_Scopes_screenshot.png
 
 ---
 

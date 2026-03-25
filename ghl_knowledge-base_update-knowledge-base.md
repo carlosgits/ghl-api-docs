@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/knowledge-base/update-knowledge-base
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_knowledge-base_update-knowledge-base_screenshot.png
+Screenshot: images/ghl_knowledge-base_update-knowledge-base_screenshot.png
 
 ---
 

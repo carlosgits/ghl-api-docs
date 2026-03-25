@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/funnels/create-redirect
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_funnels_create-redirect_screenshot.png
+Screenshot: images/ghl_funnels_create-redirect_screenshot.png
 
 ---
 

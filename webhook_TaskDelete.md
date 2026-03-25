@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/TaskDelete
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_TaskDelete_screenshot.png
+Screenshot: images/webhook_TaskDelete_screenshot.png
 
 ---
 

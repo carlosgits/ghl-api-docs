@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/brand-boards/get-brand-boards-by-location
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_brand-boards_get-brand-boards-by-location_screenshot.png
+Screenshot: images/ghl_brand-boards_get-brand-boards-by-location_screenshot.png
 
 ---
 

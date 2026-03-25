@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/sdk/node
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\sdk_node_screenshot.png
+Screenshot: images/sdk_node_screenshot.png
 
 ---
 

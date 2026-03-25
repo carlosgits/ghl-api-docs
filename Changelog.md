@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/Changelog
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Changelog_screenshot.png
+Screenshot: images/Changelog_screenshot.png
 
 ---
 

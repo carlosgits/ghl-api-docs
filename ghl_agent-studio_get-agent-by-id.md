@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/agent-studio/get-agent-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_agent-studio_get-agent-by-id_screenshot.png
+Screenshot: images/ghl_agent-studio_get-agent-by-id_screenshot.png
 
 ---
 

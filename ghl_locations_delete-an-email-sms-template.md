@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/delete-an-email-sms-template
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_delete-an-email-sms-template_screenshot.png
+Screenshot: images/ghl_locations_delete-an-email-sms-template_screenshot.png
 
 ---
 

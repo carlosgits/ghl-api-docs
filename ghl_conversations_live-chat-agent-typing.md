@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/conversations/live-chat-agent-typing
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_conversations_live-chat-agent-typing_screenshot.png
+Screenshot: images/ghl_conversations_live-chat-agent-typing_screenshot.png
 
 ---
 

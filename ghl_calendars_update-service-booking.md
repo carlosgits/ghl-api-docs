@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/update-service-booking
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_update-service-booking_screenshot.png
+Screenshot: images/ghl_calendars_update-service-booking_screenshot.png
 
 ---
 

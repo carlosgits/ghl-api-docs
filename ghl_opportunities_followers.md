@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/opportunities/followers
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_opportunities_followers_screenshot.png
+Screenshot: images/ghl_opportunities_followers_screenshot.png
 
 ---
 

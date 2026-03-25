@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/snapshots/create-snapshot-share-link
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_snapshots_create-snapshot-share-link_screenshot.png
+Screenshot: images/ghl_snapshots_create-snapshot-share-link_screenshot.png
 
 ---
 

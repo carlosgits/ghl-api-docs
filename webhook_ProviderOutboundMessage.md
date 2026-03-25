@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/ProviderOutboundMessage
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_ProviderOutboundMessage_screenshot.png
+Screenshot: images/webhook_ProviderOutboundMessage_screenshot.png
 
 ---
 

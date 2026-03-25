@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/objects/search-object-records
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_objects_search-object-records_screenshot.png
+Screenshot: images/ghl_objects_search-object-records_screenshot.png
 
 ---
 

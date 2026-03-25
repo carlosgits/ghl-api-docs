@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/UserCreate
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_UserCreate_screenshot.png
+Screenshot: images/webhook_UserCreate_screenshot.png
 
 ---
 

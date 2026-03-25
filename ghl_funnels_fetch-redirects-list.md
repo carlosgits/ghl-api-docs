@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/funnels/fetch-redirects-list
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_funnels_fetch-redirects-list_screenshot.png
+Screenshot: images/ghl_funnels_fetch-redirects-list_screenshot.png
 
 ---
 

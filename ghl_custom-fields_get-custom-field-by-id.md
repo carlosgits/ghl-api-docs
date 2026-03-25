@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/custom-fields/get-custom-field-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_custom-fields_get-custom-field-by-id_screenshot.png
+Screenshot: images/ghl_custom-fields_get-custom-field-by-id_screenshot.png
 
 ---
 

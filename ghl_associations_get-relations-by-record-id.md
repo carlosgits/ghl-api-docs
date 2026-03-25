@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/associations/get-relations-by-record-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_associations_get-relations-by-record-id_screenshot.png
+Screenshot: images/ghl_associations_get-relations-by-record-id_screenshot.png
 
 ---
 

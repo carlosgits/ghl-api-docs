@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/InvoiceUpdate
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_InvoiceUpdate_screenshot.png
+Screenshot: images/webhook_InvoiceUpdate_screenshot.png
 
 ---
 

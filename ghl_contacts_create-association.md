@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/create-association
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_create-association_screenshot.png
+Screenshot: images/ghl_contacts_create-association_screenshot.png
 
 ---
 

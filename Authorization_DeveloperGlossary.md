@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/Authorization/DeveloperGlossary
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_DeveloperGlossary_screenshot.png
+Screenshot: images/Authorization_DeveloperGlossary_screenshot.png
 
 ---
 

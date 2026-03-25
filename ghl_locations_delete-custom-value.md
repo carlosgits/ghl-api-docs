@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/delete-custom-value
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_delete-custom-value_screenshot.png
+Screenshot: images/ghl_locations_delete-custom-value_screenshot.png
 
 ---
 

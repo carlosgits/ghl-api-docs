@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/payments/delete-integration
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_payments_delete-integration_screenshot.png
+Screenshot: images/ghl_payments_delete-integration_screenshot.png
 
 ---
 

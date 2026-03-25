@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/validate-groups-slug
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_validate-groups-slug_screenshot.png
+Screenshot: images/ghl_calendars_validate-groups-slug_screenshot.png
 
 ---
 

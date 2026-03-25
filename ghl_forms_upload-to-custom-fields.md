@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/forms/upload-to-custom-fields
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_forms_upload-to-custom-fields_screenshot.png
+Screenshot: images/ghl_forms_upload-to-custom-fields_screenshot.png
 
 ---
 

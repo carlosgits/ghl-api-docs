@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/associations/find-associations
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_associations_find-associations_screenshot.png
+Screenshot: images/ghl_associations_find-associations_screenshot.png
 
 ---
 

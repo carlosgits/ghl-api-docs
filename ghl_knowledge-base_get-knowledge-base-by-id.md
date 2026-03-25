@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/knowledge-base/get-knowledge-base-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_knowledge-base_get-knowledge-base-by-id_screenshot.png
+Screenshot: images/ghl_knowledge-base_get-knowledge-base-by-id_screenshot.png
 
 ---
 

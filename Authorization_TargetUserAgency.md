@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/Authorization/TargetUserAgency
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_TargetUserAgency_screenshot.png
+Screenshot: images/Authorization_TargetUserAgency_screenshot.png
 
 ---
 

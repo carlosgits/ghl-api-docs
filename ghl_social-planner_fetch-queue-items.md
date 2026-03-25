@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/fetch-queue-items
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_fetch-queue-items_screenshot.png
+Screenshot: images/ghl_social-planner_fetch-queue-items_screenshot.png
 
 ---
 

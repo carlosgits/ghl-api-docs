@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/remove-followers-contact
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_remove-followers-contact_screenshot.png
+Screenshot: images/ghl_contacts_remove-followers-contact_screenshot.png
 
 ---
 

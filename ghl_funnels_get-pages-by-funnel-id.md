@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/funnels/get-pages-by-funnel-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_funnels_get-pages-by-funnel-id_screenshot.png
+Screenshot: images/ghl_funnels_get-pages-by-funnel-id_screenshot.png
 
 ---
 

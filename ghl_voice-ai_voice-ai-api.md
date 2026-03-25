@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/voice-ai/voice-ai-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_voice-ai_voice-ai-api_screenshot.png
+Screenshot: images/ghl_voice-ai_voice-ai-api_screenshot.png
 
 ---
 

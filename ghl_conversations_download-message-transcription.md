@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/conversations/download-message-transcription
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_conversations_download-message-transcription_screenshot.png
+Screenshot: images/ghl_conversations_download-message-transcription_screenshot.png
 
 ---
 

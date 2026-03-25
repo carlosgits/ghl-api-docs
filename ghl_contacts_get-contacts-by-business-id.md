@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/get-contacts-by-business-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_get-contacts-by-business-id_screenshot.png
+Screenshot: images/ghl_contacts_get-contacts-by-business-id_screenshot.png
 
 ---
 

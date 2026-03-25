@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/update-appointment-note
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_update-appointment-note_screenshot.png
+Screenshot: images/ghl_calendars_update-appointment-note_screenshot.png
 
 ---
 

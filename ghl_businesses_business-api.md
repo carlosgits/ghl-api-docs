@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/businesses/business-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_businesses_business-api_screenshot.png
+Screenshot: images/ghl_businesses_business-api_screenshot.png
 
 ---
 

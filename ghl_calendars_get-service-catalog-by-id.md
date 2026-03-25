@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/get-service-catalog-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_get-service-catalog-by-id_screenshot.png
+Screenshot: images/ghl_calendars_get-service-catalog-by-id_screenshot.png
 
 ---
 

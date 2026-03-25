@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/invoices/list-invoice-schedules
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_invoices_list-invoice-schedules_screenshot.png
+Screenshot: images/ghl_invoices_list-invoice-schedules_screenshot.png
 
 ---
 

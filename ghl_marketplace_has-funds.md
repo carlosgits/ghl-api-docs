@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/marketplace/has-funds
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_marketplace_has-funds_screenshot.png
+Screenshot: images/ghl_marketplace_has-funds_screenshot.png
 
 ---
 

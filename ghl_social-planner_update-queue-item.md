@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/update-queue-item
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_update-queue-item_screenshot.png
+Screenshot: images/ghl_social-planner_update-queue-item_screenshot.png
 
 ---
 

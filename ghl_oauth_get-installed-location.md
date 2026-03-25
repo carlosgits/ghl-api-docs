@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/oauth/get-installed-location
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_oauth_get-installed-location_screenshot.png
+Screenshot: images/ghl_oauth_get-installed-location_screenshot.png
 
 ---
 

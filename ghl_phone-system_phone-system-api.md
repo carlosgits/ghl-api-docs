@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/phone-system/phone-system-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_phone-system_phone-system-api_screenshot.png
+Screenshot: images/ghl_phone-system_phone-system-api_screenshot.png
 
 ---
 

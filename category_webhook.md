@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/category/webhook
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\category_webhook_screenshot.png
+Screenshot: images/category_webhook_screenshot.png
 
 ---
 

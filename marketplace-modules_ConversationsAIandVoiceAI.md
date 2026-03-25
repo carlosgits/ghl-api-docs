@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/marketplace-modules/ConversationsAIandVoiceAI
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_ConversationsAIandVoiceAI_screenshot.png
+Screenshot: images/marketplace-modules_ConversationsAIandVoiceAI_screenshot.png
 
 ---
 

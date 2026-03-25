@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/payments/orders
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_payments_orders_screenshot.png
+Screenshot: images/ghl_payments_orders_screenshot.png
 
 ---
 

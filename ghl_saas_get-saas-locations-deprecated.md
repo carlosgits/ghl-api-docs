@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/saas/get-saas-locations-deprecated
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_saas_get-saas-locations-deprecated_screenshot.png
+Screenshot: images/ghl_saas_get-saas-locations-deprecated_screenshot.png
 
 ---
 

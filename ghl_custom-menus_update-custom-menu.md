@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/custom-menus/update-custom-menu
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_custom-menus_update-custom-menu_screenshot.png
+Screenshot: images/ghl_custom-menus_update-custom-menu_screenshot.png
 
 ---
 

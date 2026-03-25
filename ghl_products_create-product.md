@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/products/create-product
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_products_create-product_screenshot.png
+Screenshot: images/ghl_products_create-product_screenshot.png
 
 ---
 

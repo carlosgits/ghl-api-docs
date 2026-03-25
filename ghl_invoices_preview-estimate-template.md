@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/invoices/preview-estimate-template
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_invoices_preview-estimate-template_screenshot.png
+Screenshot: images/ghl_invoices_preview-estimate-template_screenshot.png
 
 ---
 

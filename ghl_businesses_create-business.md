@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/businesses/create-business
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_businesses_create-business_screenshot.png
+Screenshot: images/ghl_businesses_create-business_screenshot.png
 
 ---
 

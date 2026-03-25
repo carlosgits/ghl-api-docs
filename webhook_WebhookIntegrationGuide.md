@@ -2,13 +2,13 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/WebhookIntegrationGuide
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_WebhookIntegrationGuide_screenshot.png
+Screenshot: images/webhook_WebhookIntegrationGuide_screenshot.png
 
 ## Images
 
-- ![OAuth Scopes Configuration](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_WebhookIntegrationGuide_00.png) (3452x2068, 489.9KB)
-- ![Webhook URL Configuration](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_WebhookIntegrationGuide_01.png) (3456x1988, 444.3KB)
-- ![Webhook Logs Dashboard](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_WebhookIntegrationGuide_02.png) (3456x1978, 528.8KB)
+- ![OAuth Scopes Configuration](images/webhook_WebhookIntegrationGuide_00.png) (3452x2068, 489.9KB)
+- ![Webhook URL Configuration](images/webhook_WebhookIntegrationGuide_01.png) (3456x1988, 444.3KB)
+- ![Webhook Logs Dashboard](images/webhook_WebhookIntegrationGuide_02.png) (3456x1978, 528.8KB)
 
 ---
 

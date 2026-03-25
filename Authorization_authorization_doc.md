@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/Authorization/authorization_doc
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_authorization_doc_screenshot.png
+Screenshot: images/Authorization_authorization_doc_screenshot.png
 
 ---
 

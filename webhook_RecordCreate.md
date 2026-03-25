@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/RecordCreate
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_RecordCreate_screenshot.png
+Screenshot: images/webhook_RecordCreate_screenshot.png
 
 ---
 

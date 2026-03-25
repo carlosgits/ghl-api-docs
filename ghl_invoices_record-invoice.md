@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/invoices/record-invoice
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_invoices_record-invoice_screenshot.png
+Screenshot: images/ghl_invoices_record-invoice_screenshot.png
 
 ---
 

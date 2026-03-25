@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/workflows/get-workflow
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_workflows_get-workflow_screenshot.png
+Screenshot: images/ghl_workflows_get-workflow_screenshot.png
 
 ---
 

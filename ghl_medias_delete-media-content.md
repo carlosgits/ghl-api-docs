@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/medias/delete-media-content
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_medias_delete-media-content_screenshot.png
+Screenshot: images/ghl_medias_delete-media-content_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/products/get-price-by-id-for-product
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_products_get-price-by-id-for-product_screenshot.png
+Screenshot: images/ghl_products_get-price-by-id-for-product_screenshot.png
 
 ---
 

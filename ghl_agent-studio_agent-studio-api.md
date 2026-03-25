@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/agent-studio/agent-studio-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_agent-studio_agent-studio-api_screenshot.png
+Screenshot: images/ghl_agent-studio_agent-studio-api_screenshot.png
 
 ---
 

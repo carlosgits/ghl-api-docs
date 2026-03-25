@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/discard-edit-session
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_discard-edit-session_screenshot.png
+Screenshot: images/ghl_social-planner_discard-edit-session_screenshot.png
 
 ---
 

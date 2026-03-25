@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/surveys/get-surveys-submissions
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_surveys_get-surveys-submissions_screenshot.png
+Screenshot: images/ghl_surveys_get-surveys-submissions_screenshot.png
 
 ---
 

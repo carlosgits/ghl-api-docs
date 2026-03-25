@@ -2,11 +2,11 @@
 
 Source: https://marketplace.gohighlevel.com/docs/marketplace-modules/WorkflowActionsAndTriggers
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_WorkflowActionsAndTriggers_screenshot.png
+Screenshot: images/marketplace-modules_WorkflowActionsAndTriggers_screenshot.png
 
 ## Images
 
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_WorkflowActionsAndTriggers_00.png) (1836x448, 78.5KB)
+- ![drawing](images/marketplace-modules_WorkflowActionsAndTriggers_00.png) (1836x448, 78.5KB)
 
 ---
 

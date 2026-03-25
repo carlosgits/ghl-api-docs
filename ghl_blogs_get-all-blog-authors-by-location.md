@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/blogs/get-all-blog-authors-by-location
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_blogs_get-all-blog-authors-by-location_screenshot.png
+Screenshot: images/ghl_blogs_get-all-blog-authors-by-location_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/marketplace/get-specific-charge
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_marketplace_get-specific-charge_screenshot.png
+Screenshot: images/ghl_marketplace_get-specific-charge_screenshot.png
 
 ---
 

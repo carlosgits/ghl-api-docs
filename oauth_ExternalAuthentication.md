@@ -2,18 +2,18 @@
 
 Source: https://marketplace.gohighlevel.com/docs/oauth/ExternalAuthentication
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_ExternalAuthentication_screenshot.png
+Screenshot: images/oauth_ExternalAuthentication_screenshot.png
 
 ## Images
 
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_ExternalAuthentication_00.png) (2980x1708, 122.9KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_ExternalAuthentication_01.png) (1824x556, 37.2KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_ExternalAuthentication_02.png) (1104x1206, 86.3KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_ExternalAuthentication_03.png) (1818x734, 66.1KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_ExternalAuthentication_04.png) (1838x360, 24.7KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_ExternalAuthentication_05.png) (2724x1618, 158.3KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_ExternalAuthentication_06.png) (3010x1600, 218.1KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_ExternalAuthentication_07.png) (2978x1528, 881.6KB)
+- ![drawing](images/oauth_ExternalAuthentication_00.png) (2980x1708, 122.9KB)
+- ![drawing](images/oauth_ExternalAuthentication_01.png) (1824x556, 37.2KB)
+- ![drawing](images/oauth_ExternalAuthentication_02.png) (1104x1206, 86.3KB)
+- ![drawing](images/oauth_ExternalAuthentication_03.png) (1818x734, 66.1KB)
+- ![drawing](images/oauth_ExternalAuthentication_04.png) (1838x360, 24.7KB)
+- ![drawing](images/oauth_ExternalAuthentication_05.png) (2724x1618, 158.3KB)
+- ![drawing](images/oauth_ExternalAuthentication_06.png) (3010x1600, 218.1KB)
+- ![drawing](images/oauth_ExternalAuthentication_07.png) (2978x1528, 881.6KB)
 
 ---
 

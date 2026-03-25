@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/get-instagram-page-group
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_get-instagram-page-group_screenshot.png
+Screenshot: images/ghl_social-planner_get-instagram-page-group_screenshot.png
 
 ---
 

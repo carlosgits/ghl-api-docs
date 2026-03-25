@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/blogs/get-blog-post
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_blogs_get-blog-post_screenshot.png
+Screenshot: images/ghl_blogs_get-blog-post_screenshot.png
 
 ---
 

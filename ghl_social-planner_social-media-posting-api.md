@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/social-media-posting-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_social-media-posting-api_screenshot.png
+Screenshot: images/ghl_social-planner_social-media-posting-api_screenshot.png
 
 ---
 

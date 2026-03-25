@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/users/get-user-by-location
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_users_get-user-by-location_screenshot.png
+Screenshot: images/ghl_users_get-user-by-location_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/notes
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_notes_screenshot.png
+Screenshot: images/ghl_contacts_notes_screenshot.png
 
 ---
 

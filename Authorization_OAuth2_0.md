@@ -2,16 +2,16 @@
 
 Source: https://marketplace.gohighlevel.com/docs/Authorization/OAuth2.0
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_OAuth2_0_screenshot.png
+Screenshot: images/Authorization_OAuth2_0_screenshot.png
 
 ## Images
 
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_OAuth2_0_00.png) (1015x1278, 132.6KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_OAuth2_0_01.png) (1906x1642, 237.5KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_OAuth2_0_02.png) (1507x425, 108.8KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_OAuth2_0_03.png) (1565x337, 373.8KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_OAuth2_0_04.png) (823x476, 46.4KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_OAuth2_0_05.png) (668x613, 300.8KB)
+- ![drawing](images/Authorization_OAuth2_0_00.png) (1015x1278, 132.6KB)
+- ![drawing](images/Authorization_OAuth2_0_01.png) (1906x1642, 237.5KB)
+- ![drawing](images/Authorization_OAuth2_0_02.png) (1507x425, 108.8KB)
+- ![drawing](images/Authorization_OAuth2_0_03.png) (1565x337, 373.8KB)
+- ![drawing](images/Authorization_OAuth2_0_04.png) (823x476, 46.4KB)
+- ![drawing](images/Authorization_OAuth2_0_05.png) (668x613, 300.8KB)
 
 ---
 

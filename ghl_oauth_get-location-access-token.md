@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/oauth/get-location-access-token
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_oauth_get-location-access-token_screenshot.png
+Screenshot: images/ghl_oauth_get-location-access-token_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/delete-queue-item
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_delete-queue-item_screenshot.png
+Screenshot: images/ghl_social-planner_delete-queue-item_screenshot.png
 
 ---
 

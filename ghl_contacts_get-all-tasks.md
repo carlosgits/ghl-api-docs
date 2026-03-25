@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/get-all-tasks
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_get-all-tasks_screenshot.png
+Screenshot: images/ghl_contacts_get-all-tasks_screenshot.png
 
 ---
 

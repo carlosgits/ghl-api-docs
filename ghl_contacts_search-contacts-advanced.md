@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/search-contacts-advanced
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_search-contacts-advanced_screenshot.png
+Screenshot: images/ghl_contacts_search-contacts-advanced_screenshot.png
 
 ---
 

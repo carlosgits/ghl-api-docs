@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/payments/get-subscription-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_payments_get-subscription-by-id_screenshot.png
+Screenshot: images/ghl_payments_get-subscription-by-id_screenshot.png
 
 ---
 

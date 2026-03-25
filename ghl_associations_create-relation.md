@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/associations/create-relation
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_associations_create-relation_screenshot.png
+Screenshot: images/ghl_associations_create-relation_screenshot.png
 
 ---
 

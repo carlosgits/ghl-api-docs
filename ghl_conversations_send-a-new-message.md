@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/conversations/send-a-new-message
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_conversations_send-a-new-message_screenshot.png
+Screenshot: images/ghl_conversations_send-a-new-message_screenshot.png
 
 ---
 

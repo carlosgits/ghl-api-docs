@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/products/bulk-update
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_products_bulk-update_screenshot.png
+Screenshot: images/ghl_products_bulk-update_screenshot.png
 
 ---
 

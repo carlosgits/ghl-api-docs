@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/store/update-shipping-rate
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_store_update-shipping-rate_screenshot.png
+Screenshot: images/ghl_store_update-shipping-rate_screenshot.png
 
 ---
 

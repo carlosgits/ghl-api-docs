@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/bulk-delete-social-planner-posts
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_bulk-delete-social-planner-posts_screenshot.png
+Screenshot: images/ghl_social-planner_bulk-delete-social-planner-posts_screenshot.png
 
 ---
 

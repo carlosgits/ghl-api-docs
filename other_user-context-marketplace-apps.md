@@ -2,11 +2,11 @@
 
 Source: https://marketplace.gohighlevel.com/docs/other/user-context-marketplace-apps
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\other_user-context-marketplace-apps_screenshot.png
+Screenshot: images/other_user-context-marketplace-apps_screenshot.png
 
 ## Images
 
-- ![Shared Secret Key Generation](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\other_user-context-marketplace-apps_00.png) (2394x636, 69.1KB)
+- ![Shared Secret Key Generation](images/other_user-context-marketplace-apps_00.png) (2394x636, 69.1KB)
 
 ---
 

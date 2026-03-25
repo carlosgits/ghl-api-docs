@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/products/get-product-collection-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_products_get-product-collection-id_screenshot.png
+Screenshot: images/ghl_products_get-product-collection-id_screenshot.png
 
 ---
 

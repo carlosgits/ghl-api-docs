@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/invoices/update-invoice-last-visited-at
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_invoices_update-invoice-last-visited-at_screenshot.png
+Screenshot: images/ghl_invoices_update-invoice-last-visited-at_screenshot.png
 
 ---
 

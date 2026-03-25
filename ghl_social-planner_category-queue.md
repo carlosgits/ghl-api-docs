@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/category-queue
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_category-queue_screenshot.png
+Screenshot: images/ghl_social-planner_category-queue_screenshot.png
 
 ---
 

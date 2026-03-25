@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/opportunities/add-followers-opportunity
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_opportunities_add-followers-opportunity_screenshot.png
+Screenshot: images/ghl_opportunities_add-followers-opportunity_screenshot.png
 
 ---
 

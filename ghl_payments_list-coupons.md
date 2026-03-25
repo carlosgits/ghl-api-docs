@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/payments/list-coupons
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_payments_list-coupons_screenshot.png
+Screenshot: images/ghl_payments_list-coupons_screenshot.png
 
 ---
 

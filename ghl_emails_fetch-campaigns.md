@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/emails/fetch-campaigns
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_emails_fetch-campaigns_screenshot.png
+Screenshot: images/ghl_emails_fetch-campaigns_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/funnels/redirect
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_funnels_redirect_screenshot.png
+Screenshot: images/ghl_funnels_redirect_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/oauth-linked-in
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_oauth-linked-in_screenshot.png
+Screenshot: images/ghl_social-planner_oauth-linked-in_screenshot.png
 
 ---
 

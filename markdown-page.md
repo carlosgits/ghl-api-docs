@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/markdown-page
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\markdown-page_screenshot.png
+Screenshot: images/markdown-page_screenshot.png
 
 ---
 

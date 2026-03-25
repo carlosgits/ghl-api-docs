@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/knowledge-base/create-knowledge-base
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_knowledge-base_create-knowledge-base_screenshot.png
+Screenshot: images/ghl_knowledge-base_create-knowledge-base_screenshot.png
 
 ---
 

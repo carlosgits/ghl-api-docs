@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/associations/associations-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_associations_associations-api_screenshot.png
+Screenshot: images/ghl_associations_associations-api_screenshot.png
 
 ---
 

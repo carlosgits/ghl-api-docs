@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/saas/get-saas-plan
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_saas_get-saas-plan_screenshot.png
+Screenshot: images/ghl_saas_get-saas-plan_screenshot.png
 
 ---
 

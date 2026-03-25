@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/courses/import-courses
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_courses_import-courses_screenshot.png
+Screenshot: images/ghl_courses_import-courses_screenshot.png
 
 ---
 

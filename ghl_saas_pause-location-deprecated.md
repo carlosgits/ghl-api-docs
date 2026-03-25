@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/saas/pause-location-deprecated
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_saas_pause-location-deprecated_screenshot.png
+Screenshot: images/ghl_saas_pause-location-deprecated_screenshot.png
 
 ---
 

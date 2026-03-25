@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/upload-file-custom-fields
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_upload-file-custom-fields_screenshot.png
+Screenshot: images/ghl_locations_upload-file-custom-fields_screenshot.png
 
 ---
 

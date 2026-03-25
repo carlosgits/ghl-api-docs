@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/marketplace/external-auth-migration
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_marketplace_external-auth-migration_screenshot.png
+Screenshot: images/ghl_marketplace_external-auth-migration_screenshot.png
 
 ---
 

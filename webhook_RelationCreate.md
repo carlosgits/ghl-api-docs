@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/RelationCreate
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_RelationCreate_screenshot.png
+Screenshot: images/webhook_RelationCreate_screenshot.png
 
 ---
 

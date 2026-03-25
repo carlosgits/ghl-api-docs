@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/phone-system/phone-numbers
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_phone-system_phone-numbers_screenshot.png
+Screenshot: images/ghl_phone-system_phone-numbers_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/sdk/python
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\sdk_python_screenshot.png
+Screenshot: images/sdk_python_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/payments/create-integration-provider
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_payments_create-integration-provider_screenshot.png
+Screenshot: images/ghl_payments_create-integration-provider_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/Authorization/AccessTokenUseCase
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_AccessTokenUseCase_screenshot.png
+Screenshot: images/Authorization_AccessTokenUseCase_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/voice-ai/agents
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_voice-ai_agents_screenshot.png
+Screenshot: images/ghl_voice-ai_agents_screenshot.png
 
 ---
 

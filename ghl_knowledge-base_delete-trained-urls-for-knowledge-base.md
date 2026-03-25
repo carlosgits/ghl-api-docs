@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/knowledge-base/delete-trained-urls-for-knowledge-base
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_knowledge-base_delete-trained-urls-for-knowledge-base_screenshot.png
+Screenshot: images/ghl_knowledge-base_delete-trained-urls-for-knowledge-base_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/snapshots/get-latest-snapshot-push
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_snapshots_get-latest-snapshot-push_screenshot.png
+Screenshot: images/ghl_snapshots_get-latest-snapshot-push_screenshot.png
 
 ---
 

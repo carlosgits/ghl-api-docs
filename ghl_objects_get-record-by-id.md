@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/objects/get-record-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_objects_get-record-by-id_screenshot.png
+Screenshot: images/ghl_objects_get-record-by-id_screenshot.png
 
 ---
 

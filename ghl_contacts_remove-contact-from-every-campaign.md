@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/remove-contact-from-every-campaign
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_remove-contact-from-every-campaign_screenshot.png
+Screenshot: images/ghl_contacts_remove-contact-from-every-campaign_screenshot.png
 
 ---
 

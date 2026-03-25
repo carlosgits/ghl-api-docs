@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/fetch-available-categories
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_fetch-available-categories_screenshot.png
+Screenshot: images/ghl_social-planner_fetch-available-categories_screenshot.png
 
 ---
 

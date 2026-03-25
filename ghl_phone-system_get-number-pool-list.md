@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/phone-system/get-number-pool-list
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_phone-system_get-number-pool-list_screenshot.png
+Screenshot: images/ghl_phone-system_get-number-pool-list_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/ContactUpdate
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_ContactUpdate_screenshot.png
+Screenshot: images/webhook_ContactUpdate_screenshot.png
 
 ---
 

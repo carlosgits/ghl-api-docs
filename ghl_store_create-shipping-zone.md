@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/store/create-shipping-zone
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_store_create-shipping-zone_screenshot.png
+Screenshot: images/ghl_store_create-shipping-zone_screenshot.png
 
 ---
 

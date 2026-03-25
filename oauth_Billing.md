@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/oauth/Billing
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_Billing_screenshot.png
+Screenshot: images/oauth_Billing_screenshot.png
 
 ---
 

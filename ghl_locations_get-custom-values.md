@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/get-custom-values
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_get-custom-values_screenshot.png
+Screenshot: images/ghl_locations_get-custom-values_screenshot.png
 
 ---
 

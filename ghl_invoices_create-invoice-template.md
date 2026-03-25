@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/invoices/create-invoice-template
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_invoices_create-invoice-template_screenshot.png
+Screenshot: images/ghl_invoices_create-invoice-template_screenshot.png
 
 ---
 

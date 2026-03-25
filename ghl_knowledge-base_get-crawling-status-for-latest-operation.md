@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/knowledge-base/get-crawling-status-for-latest-operation
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_knowledge-base_get-crawling-status-for-latest-operation_screenshot.png
+Screenshot: images/ghl_knowledge-base_get-crawling-status-for-latest-operation_screenshot.png
 
 ---
 

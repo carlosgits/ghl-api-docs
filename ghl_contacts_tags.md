@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/tags
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_tags_screenshot.png
+Screenshot: images/ghl_contacts_tags_screenshot.png
 
 ---
 

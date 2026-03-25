@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/proposals/documents
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_proposals_documents_screenshot.png
+Screenshot: images/ghl_proposals_documents_screenshot.png
 
 ---
 

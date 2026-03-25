@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/agent-studio/execute-agent
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_agent-studio_execute-agent_screenshot.png
+Screenshot: images/ghl_agent-studio_execute-agent_screenshot.png
 
 ---
 

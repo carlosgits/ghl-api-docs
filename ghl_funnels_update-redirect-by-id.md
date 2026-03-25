@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/funnels/update-redirect-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_funnels_update-redirect-by-id_screenshot.png
+Screenshot: images/ghl_funnels_update-redirect-by-id_screenshot.png
 
 ---
 

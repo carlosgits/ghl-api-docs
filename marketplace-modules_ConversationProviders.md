@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/marketplace-modules/ConversationProviders
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_ConversationProviders_screenshot.png
+Screenshot: images/marketplace-modules_ConversationProviders_screenshot.png
 
 ---
 

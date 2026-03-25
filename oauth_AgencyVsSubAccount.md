@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/oauth/AgencyVsSubAccount
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AgencyVsSubAccount_screenshot.png
+Screenshot: images/oauth_AgencyVsSubAccount_screenshot.png
 
 ---
 

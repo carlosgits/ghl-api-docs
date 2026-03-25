@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/conversation-ai/get-generation-details
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_conversation-ai_get-generation-details_screenshot.png
+Screenshot: images/ghl_conversation-ai_get-generation-details_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/payments/disconnect-config
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_payments_disconnect-config_screenshot.png
+Screenshot: images/ghl_payments_disconnect-config_screenshot.png
 
 ---
 

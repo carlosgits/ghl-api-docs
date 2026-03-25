@@ -2,25 +2,25 @@
 
 Source: https://marketplace.gohighlevel.com/docs/marketplace-modules/CustomActions
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_screenshot.png
+Screenshot: images/marketplace-modules_CustomActions_screenshot.png
 
 ## Images
 
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_00.png) (1232x912, 71.2KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_01.png) (1834x1348, 111.7KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_02.png) (1834x1040, 115.8KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_03.png) (1212x1548, 138.3KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_04.png) (1192x1702, 152.4KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_05.png) (1228x1516, 131.0KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_06.png) (1172x686, 63.1KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_07.png) (1172x366, 34.7KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_08.png) (1122x1244, 101.2KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_09.png) (1172x620, 64.3KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_10.png) (1214x1272, 105.3KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_11.png) (1176x666, 65.4KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_12.png) (1192x1702, 187.7KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_13.png) (1204x642, 68.1KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_CustomActions_14.png) (1204x480, 55.1KB)
+- ![drawing](images/marketplace-modules_CustomActions_00.png) (1232x912, 71.2KB)
+- ![drawing](images/marketplace-modules_CustomActions_01.png) (1834x1348, 111.7KB)
+- ![drawing](images/marketplace-modules_CustomActions_02.png) (1834x1040, 115.8KB)
+- ![drawing](images/marketplace-modules_CustomActions_03.png) (1212x1548, 138.3KB)
+- ![drawing](images/marketplace-modules_CustomActions_04.png) (1192x1702, 152.4KB)
+- ![drawing](images/marketplace-modules_CustomActions_05.png) (1228x1516, 131.0KB)
+- ![drawing](images/marketplace-modules_CustomActions_06.png) (1172x686, 63.1KB)
+- ![drawing](images/marketplace-modules_CustomActions_07.png) (1172x366, 34.7KB)
+- ![drawing](images/marketplace-modules_CustomActions_08.png) (1122x1244, 101.2KB)
+- ![drawing](images/marketplace-modules_CustomActions_09.png) (1172x620, 64.3KB)
+- ![drawing](images/marketplace-modules_CustomActions_10.png) (1214x1272, 105.3KB)
+- ![drawing](images/marketplace-modules_CustomActions_11.png) (1176x666, 65.4KB)
+- ![drawing](images/marketplace-modules_CustomActions_12.png) (1192x1702, 187.7KB)
+- ![drawing](images/marketplace-modules_CustomActions_13.png) (1204x642, 68.1KB)
+- ![drawing](images/marketplace-modules_CustomActions_14.png) (1204x480, 55.1KB)
 
 ---
 

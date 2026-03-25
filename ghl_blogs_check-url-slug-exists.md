@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/blogs/check-url-slug-exists
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_blogs_check-url-slug-exists_screenshot.png
+Screenshot: images/ghl_blogs_check-url-slug-exists_screenshot.png
 
 ---
 

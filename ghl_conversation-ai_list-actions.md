@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/conversation-ai/list-actions
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_conversation-ai_list-actions_screenshot.png
+Screenshot: images/ghl_conversation-ai_list-actions_screenshot.png
 
 ---
 

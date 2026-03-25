@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/brand-boards/get-brand-board-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_brand-boards_get-brand-board-by-id_screenshot.png
+Screenshot: images/ghl_brand-boards_get-brand-board-by-id_screenshot.png
 
 ---
 

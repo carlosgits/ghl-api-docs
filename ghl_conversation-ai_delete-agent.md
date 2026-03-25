@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/conversation-ai/delete-agent
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_conversation-ai_delete-agent_screenshot.png
+Screenshot: images/ghl_conversation-ai_delete-agent_screenshot.png
 
 ---
 

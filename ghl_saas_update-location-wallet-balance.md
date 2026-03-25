@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/saas/update-location-wallet-balance
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_saas_update-location-wallet-balance_screenshot.png
+Screenshot: images/ghl_saas_update-location-wallet-balance_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/create-calendar-resource
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_create-calendar-resource_screenshot.png
+Screenshot: images/ghl_calendars_create-calendar-resource_screenshot.png
 
 ---
 

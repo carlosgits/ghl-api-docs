@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/store/shipping-carrier
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_store_shipping-carrier_screenshot.png
+Screenshot: images/ghl_store_shipping-carrier_screenshot.png
 
 ---
 

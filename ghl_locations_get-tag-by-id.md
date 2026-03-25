@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/get-tag-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_get-tag-by-id_screenshot.png
+Screenshot: images/ghl_locations_get-tag-by-id_screenshot.png
 
 ---
 

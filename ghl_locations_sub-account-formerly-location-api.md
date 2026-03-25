@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/sub-account-formerly-location-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_sub-account-formerly-location-api_screenshot.png
+Screenshot: images/ghl_locations_sub-account-formerly-location-api_screenshot.png
 
 ---
 

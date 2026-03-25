@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/fetch-queue-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_fetch-queue-by-id_screenshot.png
+Screenshot: images/ghl_social-planner_fetch-queue-by-id_screenshot.png
 
 ---
 

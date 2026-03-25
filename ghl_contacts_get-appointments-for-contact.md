@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/get-appointments-for-contact
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_get-appointments-for-contact_screenshot.png
+Screenshot: images/ghl_contacts_get-appointments-for-contact_screenshot.png
 
 ---
 

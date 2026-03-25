@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/opportunities/update-opportunity
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_opportunities_update-opportunity_screenshot.png
+Screenshot: images/ghl_opportunities_update-opportunity_screenshot.png
 
 ---
 

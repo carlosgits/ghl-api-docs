@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/conversations/add-message-attachments
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_conversations_add-message-attachments_screenshot.png
+Screenshot: images/ghl_conversations_add-message-attachments_screenshot.png
 
 ---
 

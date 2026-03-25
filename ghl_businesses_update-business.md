@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/businesses/update-business
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_businesses_update-business_screenshot.png
+Screenshot: images/ghl_businesses_update-business_screenshot.png
 
 ---
 

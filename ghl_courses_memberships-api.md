@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/courses/memberships-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_courses_memberships-api_screenshot.png
+Screenshot: images/ghl_courses_memberships-api_screenshot.png
 
 ---
 

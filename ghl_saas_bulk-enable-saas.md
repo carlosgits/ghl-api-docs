@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/saas/bulk-enable-saas
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_saas_bulk-enable-saas_screenshot.png
+Screenshot: images/ghl_saas_bulk-enable-saas_screenshot.png
 
 ---
 

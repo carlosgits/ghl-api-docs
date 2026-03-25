@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/emails/fetch-bulk-action-campaigns
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_emails_fetch-bulk-action-campaigns_screenshot.png
+Screenshot: images/ghl_emails_fetch-bulk-action-campaigns_screenshot.png
 
 ---
 

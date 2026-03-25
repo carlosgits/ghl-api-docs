@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/store/delete-shipping-carrier
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_store_delete-shipping-carrier_screenshot.png
+Screenshot: images/ghl_store_delete-shipping-carrier_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/custom-fields/delete-custom-field
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_custom-fields_delete-custom-field_screenshot.png
+Screenshot: images/ghl_custom-fields_delete-custom-field_screenshot.png
 
 ---
 

@@ -2,15 +2,15 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/WebhookLogsDashboard
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_WebhookLogsDashboard_screenshot.png
+Screenshot: images/webhook_WebhookLogsDashboard_screenshot.png
 
 ## Images
 
-- ![Webhook Logs Dashboard](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_WebhookLogsDashboard_00.png) (3456x1978, 528.8KB)
-- ![Date Picker](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_WebhookLogsDashboard_01.png) (1834x1224, 295.2KB)
-- ![Search Bar](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_WebhookLogsDashboard_02.png) (1814x1004, 189.4KB)
-- ![Event Name Filter](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_WebhookLogsDashboard_03.png) (2050x1096, 361.7KB)
-- ![Webhook Details Modal](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_WebhookLogsDashboard_04.png) (1052x1430, 223.4KB)
+- ![Webhook Logs Dashboard](images/webhook_WebhookLogsDashboard_00.png) (3456x1978, 528.8KB)
+- ![Date Picker](images/webhook_WebhookLogsDashboard_01.png) (1834x1224, 295.2KB)
+- ![Search Bar](images/webhook_WebhookLogsDashboard_02.png) (1814x1004, 189.4KB)
+- ![Event Name Filter](images/webhook_WebhookLogsDashboard_03.png) (2050x1096, 361.7KB)
+- ![Webhook Details Modal](images/webhook_WebhookLogsDashboard_04.png) (1052x1430, 223.4KB)
 
 ---
 

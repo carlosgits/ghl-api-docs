@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/links/trigger-links-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_links_trigger-links-api_screenshot.png
+Screenshot: images/ghl_links_trigger-links-api_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/brand-boards/update-brand-board
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_brand-boards_update-brand-board_screenshot.png
+Screenshot: images/ghl_brand-boards_update-brand-board_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/objects/get-object-by-location-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_objects_get-object-by-location-id_screenshot.png
+Screenshot: images/ghl_objects_get-object-by-location-id_screenshot.png
 
 ---
 

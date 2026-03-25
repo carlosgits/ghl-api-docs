@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/store/get-shipping-zones
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_store_get-shipping-zones_screenshot.png
+Screenshot: images/ghl_store_get-shipping-zones_screenshot.png
 
 ---
 

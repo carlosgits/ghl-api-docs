@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/marketplace/get-installer-details
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_marketplace_get-installer-details_screenshot.png
+Screenshot: images/ghl_marketplace_get-installer-details_screenshot.png
 
 ---
 

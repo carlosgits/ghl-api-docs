@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/objects/get-object-schema-by-key
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_objects_get-object-schema-by-key_screenshot.png
+Screenshot: images/ghl_objects_get-object-schema-by-key_screenshot.png
 
 ---
 

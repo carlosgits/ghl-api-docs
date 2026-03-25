@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/LCEmailStats
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_LCEmailStats_screenshot.png
+Screenshot: images/webhook_LCEmailStats_screenshot.png
 
 ---
 

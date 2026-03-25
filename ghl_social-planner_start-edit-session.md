@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/start-edit-session
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_start-edit-session_screenshot.png
+Screenshot: images/ghl_social-planner_start-edit-session_screenshot.png
 
 ---
 

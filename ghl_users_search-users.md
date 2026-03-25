@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/users/search-users
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_users_search-users_screenshot.png
+Screenshot: images/ghl_users_search-users_screenshot.png
 
 ---
 

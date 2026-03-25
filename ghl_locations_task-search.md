@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/task-search
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_task-search_screenshot.png
+Screenshot: images/ghl_locations_task-search_screenshot.png
 
 ---
 

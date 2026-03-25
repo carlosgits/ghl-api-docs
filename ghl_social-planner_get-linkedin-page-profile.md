@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/get-linkedin-page-profile
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_get-linkedin-page-profile_screenshot.png
+Screenshot: images/ghl_social-planner_get-linkedin-page-profile_screenshot.png
 
 ---
 

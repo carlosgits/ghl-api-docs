@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/medias/medias
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_medias_medias_screenshot.png
+Screenshot: images/ghl_medias_medias_screenshot.png
 
 ---
 

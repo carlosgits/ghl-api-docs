@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/products/delete-product-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_products_delete-product-by-id_screenshot.png
+Screenshot: images/ghl_products_delete-product-by-id_screenshot.png
 
 ---
 

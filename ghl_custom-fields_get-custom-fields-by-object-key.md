@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/custom-fields/get-custom-fields-by-object-key
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_custom-fields_get-custom-fields-by-object-key_screenshot.png
+Screenshot: images/ghl_custom-fields_get-custom-fields-by-object-key_screenshot.png
 
 ---
 

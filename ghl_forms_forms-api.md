@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/forms/forms-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_forms_forms-api_screenshot.png
+Screenshot: images/ghl_forms_forms-api_screenshot.png
 
 ---
 

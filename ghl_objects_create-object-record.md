@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/objects/create-object-record
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_objects_create-object-record_screenshot.png
+Screenshot: images/ghl_objects_create-object-record_screenshot.png
 
 ---
 

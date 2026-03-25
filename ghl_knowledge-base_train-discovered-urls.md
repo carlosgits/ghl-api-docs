@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/knowledge-base/train-discovered-urls
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_knowledge-base_train-discovered-urls_screenshot.png
+Screenshot: images/ghl_knowledge-base_train-discovered-urls_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/saas/generate-payment-link
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_saas_generate-payment-link_screenshot.png
+Screenshot: images/ghl_saas_generate-payment-link_screenshot.png
 
 ---
 

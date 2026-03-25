@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/oauth/GettingStarted
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_GettingStarted_screenshot.png
+Screenshot: images/oauth_GettingStarted_screenshot.png
 
 ---
 

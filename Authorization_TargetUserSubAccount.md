@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/Authorization/TargetUserSubAccount
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\Authorization_TargetUserSubAccount_screenshot.png
+Screenshot: images/Authorization_TargetUserSubAccount_screenshot.png
 
 ---
 

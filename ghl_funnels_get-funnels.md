@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/funnels/get-funnels
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_funnels_get-funnels_screenshot.png
+Screenshot: images/ghl_funnels_get-funnels_screenshot.png
 
 ---
 

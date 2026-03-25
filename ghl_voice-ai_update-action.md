@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/voice-ai/update-action
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_voice-ai_update-action_screenshot.png
+Screenshot: images/ghl_voice-ai_update-action_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/associations/delete-association
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_associations_delete-association_screenshot.png
+Screenshot: images/ghl_associations_delete-association_screenshot.png
 
 ---
 

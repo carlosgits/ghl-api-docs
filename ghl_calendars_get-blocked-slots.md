@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/get-blocked-slots
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_get-blocked-slots_screenshot.png
+Screenshot: images/ghl_calendars_get-blocked-slots_screenshot.png
 
 ---
 

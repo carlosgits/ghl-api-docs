@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/conversations/get-messages
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_conversations_get-messages_screenshot.png
+Screenshot: images/ghl_conversations_get-messages_screenshot.png
 
 ---
 

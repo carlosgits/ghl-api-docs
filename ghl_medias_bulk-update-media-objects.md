@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/medias/bulk-update-media-objects
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_medias_bulk-update-media-objects_screenshot.png
+Screenshot: images/ghl_medias_bulk-update-media-objects_screenshot.png
 
 ---
 

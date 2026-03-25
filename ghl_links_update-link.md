@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/links/update-link
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_links_update-link_screenshot.png
+Screenshot: images/ghl_links_update-link_screenshot.png
 
 ---
 

@@ -2,19 +2,19 @@
 
 Source: https://marketplace.gohighlevel.com/docs/oauth/AppDistribution
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AppDistribution_screenshot.png
+Screenshot: images/oauth_AppDistribution_screenshot.png
 
 ## Images
 
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AppDistribution_00.png) (1124x1232, 133.1KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AppDistribution_01.png) (3456x1934, 678.6KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AppDistribution_02.png) (1114x1420, 157.8KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AppDistribution_03.png) (3456x1926, 688.0KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AppDistribution_04.png) (1905x956, 137.4KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AppDistribution_05.png) (2618x1552, 469.7KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AppDistribution_06.png) (1124x1424, 158.8KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AppDistribution_07.png) (3008x1642, 518.7KB)
-- ![drawing](C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\oauth_AppDistribution_08.png) (2618x1552, 469.7KB)
+- ![drawing](images/oauth_AppDistribution_00.png) (1124x1232, 133.1KB)
+- ![drawing](images/oauth_AppDistribution_01.png) (3456x1934, 678.6KB)
+- ![drawing](images/oauth_AppDistribution_02.png) (1114x1420, 157.8KB)
+- ![drawing](images/oauth_AppDistribution_03.png) (3456x1926, 688.0KB)
+- ![drawing](images/oauth_AppDistribution_04.png) (1905x956, 137.4KB)
+- ![drawing](images/oauth_AppDistribution_05.png) (2618x1552, 469.7KB)
+- ![drawing](images/oauth_AppDistribution_06.png) (1124x1424, 158.8KB)
+- ![drawing](images/oauth_AppDistribution_07.png) (3008x1642, 518.7KB)
+- ![drawing](images/oauth_AppDistribution_08.png) (2618x1552, 469.7KB)
 
 ---
 

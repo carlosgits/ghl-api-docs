@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/invoices/send-estimate
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_invoices_send-estimate_screenshot.png
+Screenshot: images/ghl_invoices_send-estimate_screenshot.png
 
 ---
 

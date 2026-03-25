@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/saas/enable-saas-location
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_saas_enable-saas-location_screenshot.png
+Screenshot: images/ghl_saas_enable-saas-location_screenshot.png
 
 ---
 

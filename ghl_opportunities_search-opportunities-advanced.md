@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/opportunities/search-opportunities-advanced
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_opportunities_search-opportunities-advanced_screenshot.png
+Screenshot: images/ghl_opportunities_search-opportunities-advanced_screenshot.png
 
 ---
 

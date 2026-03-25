@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/oauth/oauth-2-0
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_oauth_oauth-2-0_screenshot.png
+Screenshot: images/ghl_oauth_oauth-2-0_screenshot.png
 
 ---
 

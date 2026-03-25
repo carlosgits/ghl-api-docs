@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/custom-fields/custom-fields-v-2
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_custom-fields_custom-fields-v-2_screenshot.png
+Screenshot: images/ghl_custom-fields_custom-fields-v-2_screenshot.png
 
 ---
 

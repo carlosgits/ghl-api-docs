@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/find-event-notification
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_find-event-notification_screenshot.png
+Screenshot: images/ghl_calendars_find-event-notification_screenshot.png
 
 ---
 

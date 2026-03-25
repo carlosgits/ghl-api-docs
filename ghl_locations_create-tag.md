@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/create-tag
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_create-tag_screenshot.png
+Screenshot: images/ghl_locations_create-tag_screenshot.png
 
 ---
 

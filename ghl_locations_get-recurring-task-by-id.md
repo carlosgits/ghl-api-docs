@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/get-recurring-task-by-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_get-recurring-task-by-id_screenshot.png
+Screenshot: images/ghl_locations_get-recurring-task-by-id_screenshot.png
 
 ---
 

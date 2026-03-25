@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/sdk/php
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\sdk_php_screenshot.png
+Screenshot: images/sdk_php_screenshot.png
 
 ---
 

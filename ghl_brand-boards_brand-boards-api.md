@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/brand-boards/brand-boards-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_brand-boards_brand-boards-api_screenshot.png
+Screenshot: images/ghl_brand-boards_brand-boards-api_screenshot.png
 
 ---
 

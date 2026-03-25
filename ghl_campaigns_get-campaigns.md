@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/campaigns/get-campaigns
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_campaigns_get-campaigns_screenshot.png
+Screenshot: images/ghl_campaigns_get-campaigns_screenshot.png
 
 ---
 

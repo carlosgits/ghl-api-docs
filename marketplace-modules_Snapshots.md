@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/marketplace-modules/Snapshots
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_Snapshots_screenshot.png
+Screenshot: images/marketplace-modules_Snapshots_screenshot.png
 
 ---
 

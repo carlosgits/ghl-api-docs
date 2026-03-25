@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/links/get-links
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_links_get-links_screenshot.png
+Screenshot: images/ghl_links_get-links_screenshot.png
 
 ---
 

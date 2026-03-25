@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/delete-contact-from-workflow
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_delete-contact-from-workflow_screenshot.png
+Screenshot: images/ghl_contacts_delete-contact-from-workflow_screenshot.png
 
 ---
 

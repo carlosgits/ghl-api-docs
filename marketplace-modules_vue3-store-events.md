@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/marketplace-modules/vue3-store-events
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\marketplace-modules_vue3-store-events_screenshot.png
+Screenshot: images/marketplace-modules_vue3-store-events_screenshot.png
 
 ---
 

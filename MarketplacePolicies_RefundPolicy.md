@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/MarketplacePolicies/RefundPolicy
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\MarketplacePolicies_RefundPolicy_screenshot.png
+Screenshot: images/MarketplacePolicies_RefundPolicy_screenshot.png
 
 ---
 

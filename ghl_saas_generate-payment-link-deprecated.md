@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/saas/generate-payment-link-deprecated
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_saas_generate-payment-link-deprecated_screenshot.png
+Screenshot: images/ghl_saas_generate-payment-link-deprecated_screenshot.png
 
 ---
 

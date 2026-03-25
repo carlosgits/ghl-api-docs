@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/objects/update-custom-object
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_objects_update-custom-object_screenshot.png
+Screenshot: images/ghl_objects_update-custom-object_screenshot.png
 
 ---
 

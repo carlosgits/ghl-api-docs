@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/products/delete-product-collection
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_products_delete-product-collection_screenshot.png
+Screenshot: images/ghl_products_delete-product-collection_screenshot.png
 
 ---
 

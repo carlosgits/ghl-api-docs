@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/create-schedule
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_create-schedule_screenshot.png
+Screenshot: images/ghl_calendars_create-schedule_screenshot.png
 
 ---
 

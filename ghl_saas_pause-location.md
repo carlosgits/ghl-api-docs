@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/saas/pause-location
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_saas_pause-location_screenshot.png
+Screenshot: images/ghl_saas_pause-location_screenshot.png
 
 ---
 

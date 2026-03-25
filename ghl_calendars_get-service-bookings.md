@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/get-service-bookings
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_get-service-bookings_screenshot.png
+Screenshot: images/ghl_calendars_get-service-bookings_screenshot.png
 
 ---
 

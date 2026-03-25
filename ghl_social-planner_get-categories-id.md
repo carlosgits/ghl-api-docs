@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/social-planner/get-categories-id
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_social-planner_get-categories-id_screenshot.png
+Screenshot: images/ghl_social-planner_get-categories-id_screenshot.png
 
 ---
 

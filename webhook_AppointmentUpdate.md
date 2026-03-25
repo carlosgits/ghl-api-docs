@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/AppointmentUpdate
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_AppointmentUpdate_screenshot.png
+Screenshot: images/webhook_AppointmentUpdate_screenshot.png
 
 ---
 

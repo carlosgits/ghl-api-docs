@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/marketplace/charge
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_marketplace_charge_screenshot.png
+Screenshot: images/ghl_marketplace_charge_screenshot.png
 
 ---
 

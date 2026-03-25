@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/ExternalAuthConnected
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_ExternalAuthConnected_screenshot.png
+Screenshot: images/webhook_ExternalAuthConnected_screenshot.png
 
 ---
 

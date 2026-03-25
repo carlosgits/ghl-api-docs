@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/proposals/list-documents-contracts-templates
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_proposals_list-documents-contracts-templates_screenshot.png
+Screenshot: images/ghl_proposals_list-documents-contracts-templates_screenshot.png
 
 ---
 

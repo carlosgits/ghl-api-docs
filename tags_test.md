@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/tags/test
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\tags_test_screenshot.png
+Screenshot: images/tags_test_screenshot.png
 
 ---
 

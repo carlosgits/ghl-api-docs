@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/webhook/InvoicePartiallyPaid
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\webhook_InvoicePartiallyPaid_screenshot.png
+Screenshot: images/webhook_InvoicePartiallyPaid_screenshot.png
 
 ---
 

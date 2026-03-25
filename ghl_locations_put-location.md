@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/locations/put-location
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_put-location_screenshot.png
+Screenshot: images/ghl_locations_put-location_screenshot.png
 
 ---
 

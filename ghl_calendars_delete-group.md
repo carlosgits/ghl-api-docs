@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/delete-group
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_delete-group_screenshot.png
+Screenshot: images/ghl_calendars_delete-group_screenshot.png
 
 ---
 

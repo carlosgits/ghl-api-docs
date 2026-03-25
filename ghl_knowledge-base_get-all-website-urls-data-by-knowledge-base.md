@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/knowledge-base/get-all-website-urls-data-by-knowledge-base
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_knowledge-base_get-all-website-urls-data-by-knowledge-base_screenshot.png
+Screenshot: images/ghl_knowledge-base_get-all-website-urls-data-by-knowledge-base_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/tags/webhook-events
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\tags_webhook-events_screenshot.png
+Screenshot: images/tags_webhook-events_screenshot.png
 
 ---
 

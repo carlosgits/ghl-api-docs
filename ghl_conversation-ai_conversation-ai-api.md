@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/conversation-ai/conversation-ai-api
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_conversation-ai_conversation-ai-api_screenshot.png
+Screenshot: images/ghl_conversation-ai_conversation-ai-api_screenshot.png
 
 ---
 

@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/add-contact-to-campaign
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_add-contact-to-campaign_screenshot.png
+Screenshot: images/ghl_contacts_add-contact-to-campaign_screenshot.png
 
 ---
 

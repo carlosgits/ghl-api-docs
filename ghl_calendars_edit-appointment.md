@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/edit-appointment
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_edit-appointment_screenshot.png
+Screenshot: images/ghl_calendars_edit-appointment_screenshot.png
 
 ---
 

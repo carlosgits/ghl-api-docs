@@ -2,7 +2,7 @@
 
 Source: https://marketplace.gohighlevel.com/docs/ghl/contacts/delete-contact
 
-Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_contacts_delete-contact_screenshot.png
+Screenshot: images/ghl_contacts_delete-contact_screenshot.png
 
 ---
 
