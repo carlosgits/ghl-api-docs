@@ -1,0 +1,128 @@
+# Update Link
+
+Source: https://marketplace.gohighlevel.com/docs/ghl/links/update-link
+
+Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_links_update-link_screenshot.png
+
+---
+
+Trigger LinksTrigger LinksUpdate Link
+Update Link
+PUT
+ https://services.leadconnectorhq.com/links/:linkId
+Update Link
+Requirements
+Scope(s)
+links.write
+Auth Method(s)
+OAuth Access Token
+Private Integration Token
+Token Type(s)
+Sub-Account Token
+Request
+HEADER PARAMETERS
+Version
+string
+REQUIRED
+Possible values: [2021-07-28]
+API Version
+PATH PARAMETERS
+linkId
+string
+REQUIRED
+Link Id
+APPLICATION/JSON
+BODY
+REQUIRED
+name
+string
+REQUIRED
+Example:first tag
+redirectTo
+string
+REQUIRED
+Example:https://www.google.com/
+Responses
+201
+400
+401
+422
+Successful response
+APPLICATION/JSON
+Schema
+Example (auto)
+SCHEMA
+link
+object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share your feedback
+★
+★
+★
+★
+★
+AUTHORIZATION: AUTHORIZATION
+CURL
+NODEJS
+PYTHON
+PHP
+JAVA
+GO
+RUBY
+POWERSHELL
+CURL
+curl -L -X PUT 'https://services.leadconnectorhq.com/links/:linkId' \
+-H 'Content-Type: application/json' \
+-H 'Accept: application/json' \
+-H 'Authorization: Bearer <TOKEN>' \
+-d '{
+  "name": "first tag",
+  "redirectTo": "https://www.google.com/"
+}'
+REQUEST
+COLLAPSE ALL
+Base URL
+https://services.leadconnectorhq.com
+Auth
+Bearer Token
+Parameters
+linkId — path
+REQUIRED
+Version — header
+REQUIRED
+---
+2021-07-28
+Body
+ REQUIRED
+{
+  "name": "first tag",
+  "redirectTo": "https://www.google.com/"
+}
+SEND API REQUEST
+RESPONSE
+CLEAR
+Click the Send API Request button above and see the response here!

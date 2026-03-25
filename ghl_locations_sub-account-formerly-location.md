@@ -1,0 +1,19 @@
+# Sub-Account (Formerly Location)
+
+Source: https://marketplace.gohighlevel.com/docs/ghl/locations/sub-account-formerly-location
+
+Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_locations_sub-account-formerly-location_screenshot.png
+
+---
+
+Sub-Account (Formerly location)Sub-Account (Formerly Location)
+Sub-Account (Formerly Location)
+Documentation for Sub-Account (Formerly location) API
+📄️ Get Sub-Account (Formerly Location)
+Get details of a Sub-Account (Formerly Location) by passing the sub-account id
+📄️ Put Sub-Account (Formerly Location)
+Update a Sub-Account (Formerly Location) based on the data provided
+📄️ Delete Sub-Account (Formerly Location)
+Delete a Sub-Account (Formerly Location) from the Agency
+📄️ Create Sub-Account (Formerly Location)
+<div>

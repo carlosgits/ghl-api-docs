@@ -1,0 +1,176 @@
+# Get notification
+
+Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/find-event-notification
+
+Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_find-event-notification_screenshot.png
+
+---
+
+CalendarsCalendar NotificationsGet notification
+Get notification
+GET
+ https://services.leadconnectorhq.com/calendars/:calendarId/notifications/:notificationId
+Find Event notification by notificationId
+Requirements
+Scope(s)
+calendars/events.readonly
+Auth Method(s)
+OAuth Access Token
+Private Integration Token
+Token Type(s)
+Sub-Account Token
+Request
+HEADER PARAMETERS
+Version
+string
+REQUIRED
+Possible values: [2021-04-15]
+API Version
+PATH PARAMETERS
+calendarId
+string
+REQUIRED
+notificationId
+string
+REQUIRED
+Responses
+200
+400
+401
+Successful response
+APPLICATION/JSON
+Schema
+Example (auto)
+SCHEMA
+_id
+string
+Notification ID
+receiverType
+string
+Possible values: [contact, guest, assignedUser, emails, phoneNumbers, business]
+Example:contact
+additionalEmailIds
+string[]
+Example:["example1@email.com","example2@email.com"]
+additionalPhoneNumbers
+string[]
+Example:["+919876744444","+919876744445"]
+channel
+string
+Possible values: [email, inApp, sms, whatsapp]
+Example:email
+notificationType
+string
+Possible values: [booked, confirmation, cancellation, reminder, followup, reschedule]
+Example:confirmation
+isActive
+boolean
+Example:true
+additionalWhatsappNumbers
+string[]
+Example:["+919876744444","+919876744445"]
+templateId
+string
+Example:0as9d8as0d
+body
+string
+Example:This is a test notification
+subject
+string
+Example:Test Notification
+afterTime
+object[]
+beforeTime
+object[]
+selectedUsers
+string[]
+Example:["user1","user2"]
+deleted
+boolean
+Example:false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share your feedback
+★
+★
+★
+★
+★
+AUTHORIZATION: AUTHORIZATION
+CURL
+NODEJS
+PYTHON
+PHP
+JAVA
+GO
+RUBY
+POWERSHELL
+CURL
+curl -L 'https://services.leadconnectorhq.com/calendars/:calendarId/notifications/:notificationId' \
+-H 'Accept: application/json' \
+-H 'Authorization: Bearer <TOKEN>'
+REQUEST
+COLLAPSE ALL
+Base URL
+https://services.leadconnectorhq.com
+Auth
+Bearer Token
+Parameters
+calendarId — path
+REQUIRED
+notificationId — path
+REQUIRED
+Version — header
+REQUIRED
+---
+2021-04-15
+SEND API REQUEST
+RESPONSE
+CLEAR
+Click the Send API Request button above and see the response here!

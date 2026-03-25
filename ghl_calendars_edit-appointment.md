@@ -1,0 +1,268 @@
+# Update Appointment
+
+Source: https://marketplace.gohighlevel.com/docs/ghl/calendars/edit-appointment
+
+Screenshot: C:\Users\carlo\OneDrive\Desktop\Proyectos\ghl-api-docs\images\ghl_calendars_edit-appointment_screenshot.png
+
+---
+
+CalendarsCalendar EventsUpdate Appointment
+Update Appointment
+PUT
+ https://services.leadconnectorhq.com/calendars/events/appointments/:eventId
+Update appointment
+Requirements
+Scope(s)
+calendars/events.write
+Auth Method(s)
+OAuth Access Token
+Private Integration Token
+Token Type(s)
+Sub-Account Token
+Request
+HEADER PARAMETERS
+Version
+string
+REQUIRED
+Possible values: [2021-04-15]
+API Version
+PATH PARAMETERS
+eventId
+string
+REQUIRED
+Event Id or Instance id. For recurring appointments send masterEventId to modify original series.
+Examples:
+example1
+example2
+Event ID
+Example:ocQHyuzHvysMo5N5VsXc
+APPLICATION/JSON
+BODY
+REQUIRED
+title
+string
+Title
+Example:Test Event
+meetingLocationType
+string
+Meeting location type.
+If address is provided in the request body, the meetingLocationType defaults to custom.
+Possible values: [custom, zoom, gmeet, phone, address, ms_teams, google]
+Example:custom
+meetingLocationId
+string
+The unique identifier for the meeting location.
+This value can be found in calendar.locationConfigurationsor calendar.teamMembers[].locationConfigurations
+Default value: default
+Example:custom_0
+overrideLocationConfig
+boolean
+Flag to override location config
+false - If only meetingLocationId is provided
+true - If only meetingLocationType is provided
+Example:true
+appointmentStatus
+string
+Possible values: [new, confirmed, cancelled, showed, noshow, invalid, completed, active]
+Example:confirmed
+assignedUserId
+string
+Assigned User Id
+Example:0007BWpSzSwfiuSl0tR2
+description
+string
+Appointment Description
+Example:Booking a call to discuss the project
+address
+string
+Appointment Address
+Example:Zoom
+ignoreDateRange
+boolean
+If set to true, the minimum scheduling notice and date range would be ignored
+Example:false
+toNotify
+boolean
+If set to false, the automations will not run
+Example:false
+ignoreFreeSlotValidation
+boolean
+If true the time slot validation would be avoided for any appointment creation (even the ignoreDateRange)
+Example:true
+rrule
+string
+RRULE as per the iCalendar (RFC 5545) specification for recurring events. DTSTART is not required, instance ids are calculated on the basis of startTime of the event. The rrule only be applied if ignoreFreeSlotValidation is true.
+calendarId
+string
+Calendar Id
+Example:CVokAlI8fgw4WYWoCtQz
+startTime
+string
+Start Time
+Example:2021-06-23T03:30:00+05:30
+endTime
+string
+End Time
+Example:2021-06-23T04:30:00+05:30
+Responses
+200
+400
+401
+Successful response
+APPLICATION/JSON
+Schema
+Example (auto)
+SCHEMA
+calendarId
+string
+REQUIRED
+Calendar Id
+Example:CVokAlI8fgw4WYWoCtQz
+locationId
+string
+REQUIRED
+Location Id
+Example:C2QujeCh8ZnC7al2InWR
+contactId
+string
+REQUIRED
+Contact Id
+Example:0007BWpSzSwfiuSl0tR2
+startTime
+string
+Start Time
+Example:2021-06-23T03:30:00+05:30
+endTime
+string
+End Time
+Example:2021-06-23T04:30:00+05:30
+title
+string
+Title
+Example:Test Event
+meetingLocationType
+string
+Meeting Location Type
+Default value: default
+Example:custom
+appointmentStatus
+string
+Possible values: [new, confirmed, cancelled, showed, noshow, invalid, active, completed]
+Example:confirmed
+assignedUserId
+string
+Assigned User Id
+Example:0007BWpSzSwfiuSl0tR2
+address
+string
+Appointment Address
+Example:Zoom
+isRecurring
+boolean
+true if the event is recurring otherwise false
+Example:true
+rrule
+string
+RRULE as per the iCalendar (RFC 5545) specification for recurring events
+id
+string
+REQUIRED
+Id
+Example:0TkCdp9PfvLeWKYRRvIz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share your feedback
+★
+★
+★
+★
+★
+AUTHORIZATION: AUTHORIZATION
+CURL
+NODEJS
+PYTHON
+PHP
+JAVA
+GO
+RUBY
+POWERSHELL
+CURL
+curl -L -X PUT 'https://services.leadconnectorhq.com/calendars/events/appointments/:eventId' \
+-H 'Content-Type: application/json' \
+-H 'Accept: application/json' \
+-H 'Authorization: Bearer <TOKEN>' \
+-d '{
+  "title": "Test Event",
+  "meetingLocationType": "custom",
+  "meetingLocationId": "custom_0",
+  "overrideLocationConfig": true,
+  "appointmentStatus": "confirmed",
+  "assignedUserId": "0007BWpSzSwfiuSl0tR2",
+  "description": "Booking a call to discuss the project",
+  "address": "Zoom",
+  "ignoreDateRange": false,
+  "toNotify": false,
+  "ignoreFreeSlotValidation": true,
+  "rrule": "string",
+  "calendarId": "CVokAlI8fgw4WYWoCtQz",
+  "startTime": "2021-06-23T03:30:00+05:30",
+  "endTime": "2021-06-23T04:30:00+05:30"
+}'
+REQUEST
+COLLAPSE ALL
+Base URL
+https://services.leadconnectorhq.com
+Auth
+Bearer Token
+Parameters
+eventId — path
+REQUIRED
+Version — header
+REQUIRED
+---
+2021-04-15
+Body
+ REQUIRED
+{
+  "title": "Test Event",
+  "meetingLocationType": "custom",
+  "meetingLocationId": "custom_0",
+  "overrideLocationConfig": true,
+  "appointmentStatus": "confirmed",
+  "assignedUserId": "0007BWpSzSwfiuSl0tR2",
+  "description": "Booking a call to discuss the project",
+  "address": "Zoom",
+  "ignoreDateRange": false,
+  "toNotify": false,
+  "ignoreFreeSlotValidation": true,
+  "rrule": "string",
+  "calendarId": "CVokAlI8fgw4WYWoCtQz",
+  "startTime": "2021-06-23T03:30:00+05:30",
+  "endTime": "2021-06-23T04:30:00+05:30"
+}
+SEND API REQUEST
+RESPONSE
+CLEAR
+Click the Send API Request button above and see the response here!
